@@ -3,3 +3,5 @@
 - Create a readme
 - Commit the readme
 - Follow the assignment 
+## Update
+- Pt.4 of the assignment
